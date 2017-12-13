@@ -1,2 +1,2 @@
-# C_Basic_Training
-i just Started learning c Language and i would like to Share what i Learned with You
+# Solved C Challenges
+Solving Challenges is The Best Way to Improve your Programming tools
